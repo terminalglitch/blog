@@ -3,8 +3,9 @@ author: "Elias"
 description: "Metal, art, computer science"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: <!--more-->
 date_format: "%B %d, %Y — %H:%M %Z"
+timezone: America/New_York
 
 # Layout
 
