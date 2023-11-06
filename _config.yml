@@ -6,7 +6,6 @@ lang: "en"
 excerpt_separator: <!--more-->
 date_format: "%B %d, %Y — %H:%M %Z"
 timezone: America/New_York
-
 url: https://terminalglitch.github.io/blog/
 
 # Layout
